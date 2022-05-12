@@ -47,5 +47,26 @@
     .logoimg {
         width: 100%;
     }
+
     
 }
+
+.card-txt {
+   text-align:left;
+   padding-bottom: 4rem;
+
+}
+.card-text {
+    text-align:left;
+    padding-bottom: 1rem;
+ 
+ }
+ .lm{
+     text-align: center;
+ }
+ .T {
+    text-align: center;
+ }
+
+
+
